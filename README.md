@@ -130,6 +130,9 @@ User Query
 ## 📸 Demo
 
 Add screenshots or a demo GIF here.
+<img width="554" height="458" alt="image" src="https://github.com/user-attachments/assets/08a1df2d-6834-4556-8686-481dc07d98f3" />
+<img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/74060cd1-da4d-425c-9713-021a298fb3f1" />
+<img width="554" height="213" alt="image" src="https://github.com/user-attachments/assets/583ad460-4c50-4b6f-865a-8ee1fc35334b" />
 
 ---
 
